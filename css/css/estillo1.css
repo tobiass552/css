@@ -1,0 +1,10 @@
+.imagen-con-color {
+    background-color: #ffcc00; /* Cambia esto por el color que desees */
+    padding: 20px; /* Espacio alrededor de la imagen */
+    display: inline-block; /* Asegúrate de que el fondo se ajuste a la imagen */
+}
+
+.imagen-con-color {
+    max-width: 100%; /* Asegúrate de que la imagen no desborde el contenedor */
+    height: auto; /* Mantén la proporción de la imagen */
+}
